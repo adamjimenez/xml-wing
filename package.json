@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "buffer": "^5.0.8",
+    "c-struct": "^0.0.4",
+    "pretty-data": "^0.40.0"
+  }
+}
